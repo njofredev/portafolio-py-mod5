@@ -1,4 +1,7 @@
-Lección 1:
+Módulo 5: Bases de datos relacionales
+Nicolás Jofré Andrade
+
+Actividad 1:
 "Consulta de datos en una base de datos relacional"
 
 1. Utilizar un RDBMS de tu elección y herramienta de administración
