@@ -4,7 +4,7 @@ Nicolás Jofré Andrade
 Actividad 2:
 "Consulta de datos en una base de datos relacional"
 
-1. Tener base de datos Produtos (ID_Producto, Nombre, Precio, Categoria)
+1. Tener base de datos Productos (ID_Producto, Nombre, Precio, Categoria)
 2. Realizar las consultas:
     - Recuperar todos los datos de productos de tabla Productos
     - Seleccionar productos cuyo precio sea superior a $50.000
