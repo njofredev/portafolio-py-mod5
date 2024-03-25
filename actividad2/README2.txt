@@ -2,7 +2,7 @@ Módulo 5: Bases de datos relacionales
 Nicolás Jofré Andrade
 
 Actividad 2:
-"Consulta de datos en una base de datos relacional"
+"Consulta de datos en una base de datos Productos"
 
 1. Tener base de datos Productos (ID_Producto, Nombre, Precio, Categoria)
 2. Realizar las consultas:
