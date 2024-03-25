@@ -12,3 +12,6 @@ Actividad 2:
 3. Usar funciones count(), avg() o max()
 4. Encuentra el número total de productos de la tabla(count)
 5. Calcula el precio promedio de los productos
+
+Desarrollo:
+Se crea documento .pdf con solución de la actividad
