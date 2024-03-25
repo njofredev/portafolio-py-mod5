@@ -11,4 +11,4 @@ Actividad 2:
     - Obtener la información de un producto especifico usando ID_Producto
 3. Usar funciones count(), avg() o max()
 4. Encuentra el número total de productos de la tabla(count)
-5. Calcula el precio promedio de los produtos
+5. Calcula el precio promedio de los productos
