@@ -8,10 +8,9 @@ This portfolio contains the following projects that I completed as part of this 
 - Project 1: "Consulta de datos en una base de datos relacional"
 - Project 2: "Consulta de datos en una base datos Productos"
 - Project 3: "Manipulación de datos transaccionalidad"
-- Project 4: 
-- Project 5: 
-- Project 6: 
+- Project 4: "Definición de tablas y modificación estructural"
+- Project 5: "Modelado entidad-relación y relacional"
 
 Tecnologies used:
-- Python
-- .txt .pdf files
+- .sql
+- .png captures
