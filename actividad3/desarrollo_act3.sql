@@ -1,3 +1,4 @@
+/*
 Módulo 5: Bases de datos relacionales
 Nicolás Jofré Andrade
 
@@ -15,3 +16,9 @@ Actividad 3:
     - Utilización de secuencias para asignar identificadores.
     - Insertar datos manteniendo la integridad referencial 
     (tabla 'departamentos' relacionada).
+
+3. Restricciones en una tabla:
+    - Asegurar que exista restricción en la tabla "Empleados", por ejemplo:
+    una restricción de clave primaria Id_Empleado y una restricción de clave
+    externa en Id_Departamento
+*/
