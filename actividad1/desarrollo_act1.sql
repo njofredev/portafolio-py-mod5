@@ -31,8 +31,7 @@ INSERT INTO Clientes (id, nombre, apellido, edad) VALUES
 (4, 'Fernando', 'Clavero', 20);
 
 -- 5. Se crea consulta que cuya edad sea mayor a 25
-SELECT *
-FROM Clientes
+SELECT * FROM Clientes
 WHERE
     edad > 25
 
