@@ -14,6 +14,9 @@ Actividad 1:
 7. Subir documentación de la actividad
 
 */
+-- 1. RDBMS: Uso de PostgreSQL
+
+-- 2. Crear base de datos 'EjercicioBD'
 
 -- 3. Se crea tabla Clientes
 CREATE TABLE Clientes(
