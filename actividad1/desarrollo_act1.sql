@@ -12,7 +12,6 @@ Actividad 1:
 5. Crear consulta para recuperar todos los clientes cuya edad sea mayor a 25 años
 6. Ejecutar la consulta y verificar que los datos sean correctos
 7. Subir documentación de la actividad
-
 */
 -- 1. RDBMS: Uso de PostgreSQL
 
