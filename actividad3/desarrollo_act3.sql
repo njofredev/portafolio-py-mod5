@@ -45,7 +45,7 @@ DELETE FROM Empleados WHERE ID_Empleado = 4;
 -- 2.c Insertar nueva información de un empleado
 INSERT INTO Empleados (ID_Empleado, Nombre, Apellido, Salario) VALUES
 (5, 'Bastian', 'Landksron', 1000000),
-(6, 'Katherine', 'Nidea', 2000000)
+(6, 'Katherine', 'Ani', 2000000)
 
 -- 2.d Utilizar secuencias para tabla empleados
 CREATE SEQUENCE seq_empleados START WITH 7 INCREMENT BY 1;
