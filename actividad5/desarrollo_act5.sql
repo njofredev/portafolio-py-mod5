@@ -13,7 +13,7 @@ CREATE TABLE Lector (
 	telefono INT,
 	direccion VARCHAR(50)
 );
-
+ 
 CREATE TABLE Libro (
 	ID_libro INT PRIMARY KEY,
 	nombre VARCHAR(50),
